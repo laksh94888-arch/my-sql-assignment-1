@@ -1,1 +1,7 @@
-# my-sql-assignment-1
+CREATE DATABASE college;
+USE college;
+
+CREATE TABLE students (
+    id INT PRIMARY KEY,
+    name VARCHAR(50)
+);# my-sql-assignment-1
